@@ -31,6 +31,7 @@ github_username:  gultz
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # theme
 remote_theme: "mmistakes/minimal-mistakes@4.28.1"
